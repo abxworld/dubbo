@@ -1,0 +1,14 @@
+org/apache/dubbo/common/serialize/kryo/KryoObjectOutput.class
+org/apache/dubbo/common/serialize/kryo/utils/ReflectionUtils.class
+org/apache/dubbo/common/serialize/kryo/optimized/KryoSerialization2.class
+org/apache/dubbo/common/serialize/kryo/KryoObjectInput.class
+org/apache/dubbo/common/serialize/kryo/utils/PooledKryoFactory.class
+org/apache/dubbo/common/serialize/kryo/utils/ThreadLocalKryoFactory.class
+org/apache/dubbo/common/serialize/kryo/utils/KryoUtils.class
+org/apache/dubbo/common/serialize/kryo/optimized/KryoObjectOutput2.class
+org/apache/dubbo/common/serialize/kryo/KryoSerialization.class
+org/apache/dubbo/common/serialize/kryo/utils/PrototypeKryoFactory.class
+org/apache/dubbo/common/serialize/kryo/optimized/KryoObjectInput2.class
+org/apache/dubbo/common/serialize/kryo/CompatibleKryo.class
+org/apache/dubbo/common/serialize/kryo/utils/AbstractKryoFactory.class
+org/apache/dubbo/common/serialize/kryo/utils/ThreadLocalKryoFactory$1.class

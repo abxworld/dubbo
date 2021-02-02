@@ -1,0 +1,8 @@
+org/apache/dubbo/registry/consul/AbstractConsulRegistry.class
+org/apache/dubbo/registry/consul/ConsulServiceDiscovery$TtlScheduler$ConsulHeartbeatTask.class
+org/apache/dubbo/registry/consul/ConsulRegistry$ConsulNotifier.class
+org/apache/dubbo/registry/consul/ConsulRegistry.class
+org/apache/dubbo/registry/consul/ConsulServiceDiscovery$ConsulNotifier.class
+org/apache/dubbo/registry/consul/ConsulServiceDiscovery.class
+org/apache/dubbo/registry/consul/ConsulServiceDiscovery$TtlScheduler.class
+org/apache/dubbo/registry/consul/ConsulRegistryFactory.class

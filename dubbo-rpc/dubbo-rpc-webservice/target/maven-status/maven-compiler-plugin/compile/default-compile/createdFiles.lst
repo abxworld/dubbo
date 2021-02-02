@@ -1,0 +1,4 @@
+org/apache/dubbo/rpc/protocol/webservice/WebServiceProtocol.class
+org/apache/dubbo/rpc/protocol/webservice/WebServiceProtocol$1.class
+org/apache/dubbo/rpc/protocol/webservice/WebServiceProtocol$WebServiceHandler.class
+org/apache/dubbo/rpc/protocol/webservice/WebServiceProtocol$URLHashMethodNameSoapActionServiceConfiguration.class

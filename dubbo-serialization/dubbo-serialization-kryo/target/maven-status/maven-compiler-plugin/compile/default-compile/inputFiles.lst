@@ -1,0 +1,13 @@
+/Users/xieziyang/projects/dubbo/dubbo-serialization/dubbo-serialization-kryo/src/main/java/org/apache/dubbo/common/serialize/kryo/optimized/KryoObjectInput2.java
+/Users/xieziyang/projects/dubbo/dubbo-serialization/dubbo-serialization-kryo/src/main/java/org/apache/dubbo/common/serialize/kryo/KryoObjectOutput.java
+/Users/xieziyang/projects/dubbo/dubbo-serialization/dubbo-serialization-kryo/src/main/java/org/apache/dubbo/common/serialize/kryo/utils/AbstractKryoFactory.java
+/Users/xieziyang/projects/dubbo/dubbo-serialization/dubbo-serialization-kryo/src/main/java/org/apache/dubbo/common/serialize/kryo/utils/ThreadLocalKryoFactory.java
+/Users/xieziyang/projects/dubbo/dubbo-serialization/dubbo-serialization-kryo/src/main/java/org/apache/dubbo/common/serialize/kryo/KryoObjectInput.java
+/Users/xieziyang/projects/dubbo/dubbo-serialization/dubbo-serialization-kryo/src/main/java/org/apache/dubbo/common/serialize/kryo/utils/ReflectionUtils.java
+/Users/xieziyang/projects/dubbo/dubbo-serialization/dubbo-serialization-kryo/src/main/java/org/apache/dubbo/common/serialize/kryo/utils/PrototypeKryoFactory.java
+/Users/xieziyang/projects/dubbo/dubbo-serialization/dubbo-serialization-kryo/src/main/java/org/apache/dubbo/common/serialize/kryo/KryoSerialization.java
+/Users/xieziyang/projects/dubbo/dubbo-serialization/dubbo-serialization-kryo/src/main/java/org/apache/dubbo/common/serialize/kryo/utils/PooledKryoFactory.java
+/Users/xieziyang/projects/dubbo/dubbo-serialization/dubbo-serialization-kryo/src/main/java/org/apache/dubbo/common/serialize/kryo/optimized/KryoSerialization2.java
+/Users/xieziyang/projects/dubbo/dubbo-serialization/dubbo-serialization-kryo/src/main/java/org/apache/dubbo/common/serialize/kryo/utils/KryoUtils.java
+/Users/xieziyang/projects/dubbo/dubbo-serialization/dubbo-serialization-kryo/src/main/java/org/apache/dubbo/common/serialize/kryo/CompatibleKryo.java
+/Users/xieziyang/projects/dubbo/dubbo-serialization/dubbo-serialization-kryo/src/main/java/org/apache/dubbo/common/serialize/kryo/optimized/KryoObjectOutput2.java

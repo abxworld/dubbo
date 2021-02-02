@@ -1,0 +1,11 @@
+/Users/xieziyang/projects/dubbo/dubbo-plugin/dubbo-auth/src/main/java/org/apache/dubbo/auth/utils/SignatureUtils.java
+/Users/xieziyang/projects/dubbo/dubbo-plugin/dubbo-auth/src/main/java/org/apache/dubbo/auth/Constants.java
+/Users/xieziyang/projects/dubbo/dubbo-plugin/dubbo-auth/src/main/java/org/apache/dubbo/auth/model/AccessKeyPair.java
+/Users/xieziyang/projects/dubbo/dubbo-plugin/dubbo-auth/src/main/java/org/apache/dubbo/auth/filter/ProviderAuthFilter.java
+/Users/xieziyang/projects/dubbo/dubbo-plugin/dubbo-auth/src/main/java/org/apache/dubbo/auth/spi/Authenticator.java
+/Users/xieziyang/projects/dubbo/dubbo-plugin/dubbo-auth/src/main/java/org/apache/dubbo/auth/AccessKeyAuthenticator.java
+/Users/xieziyang/projects/dubbo/dubbo-plugin/dubbo-auth/src/main/java/org/apache/dubbo/auth/DefaultAccessKeyStorage.java
+/Users/xieziyang/projects/dubbo/dubbo-plugin/dubbo-auth/src/main/java/org/apache/dubbo/auth/spi/AccessKeyStorage.java
+/Users/xieziyang/projects/dubbo/dubbo-plugin/dubbo-auth/src/main/java/org/apache/dubbo/auth/filter/ConsumerSignFilter.java
+/Users/xieziyang/projects/dubbo/dubbo-plugin/dubbo-auth/src/main/java/org/apache/dubbo/auth/exception/RpcAuthenticationException.java
+/Users/xieziyang/projects/dubbo/dubbo-plugin/dubbo-auth/src/main/java/org/apache/dubbo/auth/exception/AccessKeyNotFoundException.java

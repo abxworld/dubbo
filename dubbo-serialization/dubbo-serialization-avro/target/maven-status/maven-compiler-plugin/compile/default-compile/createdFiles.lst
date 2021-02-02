@@ -1,0 +1,3 @@
+org/apache/dubbo/common/serialize/avro/AvroSerialization.class
+org/apache/dubbo/common/serialize/avro/AvroObjectOutput.class
+org/apache/dubbo/common/serialize/avro/AvroObjectInput.class

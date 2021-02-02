@@ -1,0 +1,3 @@
+org/apache/dubbo/configcenter/consul/ConsulDynamicConfigurationFactory.class
+org/apache/dubbo/configcenter/consul/ConsulDynamicConfiguration.class
+org/apache/dubbo/configcenter/consul/ConsulDynamicConfiguration$ConsulListener.class

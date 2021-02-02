@@ -1,0 +1,5 @@
+org/apache/dubbo/rpc/protocol/http/JsonRemoteInvocation.class
+org/apache/dubbo/rpc/protocol/http/HttpProtocol.class
+org/apache/dubbo/rpc/protocol/http/HttpProtocol$InternalHandler.class
+org/apache/dubbo/rpc/protocol/http/HttpProtocolErrorCode.class
+org/apache/dubbo/rpc/protocol/http/JsonRpcProxyFactoryBean.class

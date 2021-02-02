@@ -1,0 +1,3 @@
+org/apache/dubbo/rpc/protocol/injvm/InjvmProtocol.class
+org/apache/dubbo/rpc/protocol/injvm/InjvmInvoker.class
+org/apache/dubbo/rpc/protocol/injvm/InjvmExporter.class

@@ -1,0 +1,3 @@
+org/apache/dubbo/registry/etcd/EtcdRegistry.class
+org/apache/dubbo/registry/etcd/EtcdServiceDiscovery.class
+org/apache/dubbo/registry/etcd/EtcdRegistryFactory.class

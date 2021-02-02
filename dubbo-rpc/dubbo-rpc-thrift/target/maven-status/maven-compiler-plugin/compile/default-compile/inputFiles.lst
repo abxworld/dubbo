@@ -1,0 +1,13 @@
+/Users/xieziyang/projects/dubbo/dubbo-rpc/dubbo-rpc-thrift/src/main/java/org/apache/dubbo/rpc/protocol/thrift/ThriftCodec.java
+/Users/xieziyang/projects/dubbo/dubbo-rpc/dubbo-rpc-thrift/src/main/java/org/apache/dubbo/rpc/protocol/thrift/DubboClassNameGenerator.java
+/Users/xieziyang/projects/dubbo/dubbo-rpc/dubbo-rpc-thrift/src/main/java/org/apache/dubbo/rpc/protocol/thrift/ThriftConstants.java
+/Users/xieziyang/projects/dubbo/dubbo-rpc/dubbo-rpc-thrift/src/main/java/org/apache/dubbo/rpc/protocol/thrift/ClassNameGenerator.java
+/Users/xieziyang/projects/dubbo/dubbo-rpc/dubbo-rpc-thrift/src/main/java/org/apache/dubbo/rpc/protocol/thrift/ThriftInvoker.java
+/Users/xieziyang/projects/dubbo/dubbo-rpc/dubbo-rpc-thrift/src/main/java/org/apache/dubbo/rpc/protocol/thrift/ThriftProtocol.java
+/Users/xieziyang/projects/dubbo/dubbo-rpc/dubbo-rpc-thrift/src/main/java/org/apache/dubbo/rpc/protocol/thrift/ThriftType.java
+/Users/xieziyang/projects/dubbo/dubbo-rpc/dubbo-rpc-thrift/src/main/java/org/apache/dubbo/rpc/protocol/thrift/ThriftNativeCodec.java
+/Users/xieziyang/projects/dubbo/dubbo-rpc/dubbo-rpc-thrift/src/main/java/org/apache/dubbo/rpc/protocol/thrift/ThriftUtils.java
+/Users/xieziyang/projects/dubbo/dubbo-rpc/dubbo-rpc-thrift/src/main/java/org/apache/dubbo/rpc/protocol/thrift/io/InputStreamWrapper.java
+/Users/xieziyang/projects/dubbo/dubbo-rpc/dubbo-rpc-thrift/src/main/java/org/apache/dubbo/rpc/protocol/thrift/ext/MultiServiceProcessor.java
+/Users/xieziyang/projects/dubbo/dubbo-rpc/dubbo-rpc-thrift/src/main/java/org/apache/dubbo/rpc/protocol/thrift/io/RandomAccessByteArrayOutputStream.java
+/Users/xieziyang/projects/dubbo/dubbo-rpc/dubbo-rpc-thrift/src/main/java/org/apache/dubbo/rpc/protocol/thrift/ThriftClassNameGenerator.java

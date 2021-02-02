@@ -33,6 +33,8 @@ public class ConsumerApplication {
         DemoService demoService = context.getBean("demoService", DemoService.class);
         CompletableFuture<String> hello = demoService.sayHelloAsync("world");
         System.out.println("result: " + hello.get());
+        String other = demoService.sayOther("你好");
+        System.out.println("other things: " + other);
         System.in.read();
     }
 }

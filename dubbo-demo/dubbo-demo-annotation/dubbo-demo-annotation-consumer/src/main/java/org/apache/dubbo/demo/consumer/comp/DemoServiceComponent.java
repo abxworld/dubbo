@@ -37,6 +37,11 @@ public class DemoServiceComponent implements DemoService {
     }
 
     @Override
+    public String sayOther(String other) {
+        return null;
+    }
+
+    @Override
     public CompletableFuture<String> sayHelloAsync(String name) {
         return null;
     }

@@ -1,0 +1,7 @@
+org/apache/dubbo/registry/zookeeper/ZookeeperServiceDiscoveryChangeWatcher.class
+org/apache/dubbo/registry/zookeeper/ZookeeperRegistryFactory.class
+org/apache/dubbo/registry/zookeeper/util/CuratorFrameworkParams.class
+org/apache/dubbo/registry/zookeeper/ZookeeperServiceDiscovery.class
+org/apache/dubbo/registry/zookeeper/util/CuratorFrameworkUtils.class
+org/apache/dubbo/registry/zookeeper/ZookeeperRegistry.class
+org/apache/dubbo/registry/zookeeper/ZookeeperInstance.class

@@ -1,0 +1,9 @@
+/Users/xieziyang/projects/dubbo/dubbo-serialization/dubbo-serialization-api/src/main/java/org/apache/dubbo/common/serialize/DataOutput.java
+/Users/xieziyang/projects/dubbo/dubbo-serialization/dubbo-serialization-api/src/main/java/org/apache/dubbo/common/serialize/Constants.java
+/Users/xieziyang/projects/dubbo/dubbo-serialization/dubbo-serialization-api/src/main/java/org/apache/dubbo/common/serialize/support/SerializableClassRegistry.java
+/Users/xieziyang/projects/dubbo/dubbo-serialization/dubbo-serialization-api/src/main/java/org/apache/dubbo/common/serialize/ObjectInput.java
+/Users/xieziyang/projects/dubbo/dubbo-serialization/dubbo-serialization-api/src/main/java/org/apache/dubbo/common/serialize/Cleanable.java
+/Users/xieziyang/projects/dubbo/dubbo-serialization/dubbo-serialization-api/src/main/java/org/apache/dubbo/common/serialize/ObjectOutput.java
+/Users/xieziyang/projects/dubbo/dubbo-serialization/dubbo-serialization-api/src/main/java/org/apache/dubbo/common/serialize/Serialization.java
+/Users/xieziyang/projects/dubbo/dubbo-serialization/dubbo-serialization-api/src/main/java/org/apache/dubbo/common/serialize/support/SerializationOptimizer.java
+/Users/xieziyang/projects/dubbo/dubbo-serialization/dubbo-serialization-api/src/main/java/org/apache/dubbo/common/serialize/DataInput.java

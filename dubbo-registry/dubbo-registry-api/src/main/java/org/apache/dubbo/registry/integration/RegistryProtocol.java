@@ -19,7 +19,6 @@ package org.apache.dubbo.registry.integration;
 import org.apache.dubbo.common.URL;
 import org.apache.dubbo.common.URLBuilder;
 import org.apache.dubbo.common.config.ConfigurationUtils;
-import org.apache.dubbo.common.config.configcenter.ConfigurationListener;
 import org.apache.dubbo.common.config.configcenter.DynamicConfiguration;
 import org.apache.dubbo.common.extension.ExtensionLoader;
 import org.apache.dubbo.common.logger.Logger;
@@ -52,8 +51,6 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
 import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.ThreadFactory;
 
 import static java.util.concurrent.Executors.newSingleThreadExecutor;
 import static org.apache.dubbo.common.constants.CommonConstants.APPLICATION_KEY;
@@ -791,71 +788,4 @@ public class RegistryProtocol implements Protocol {
         }
         return INSTANCE;
     }
-
-   /* private class RegistryProtocol$ExporterChangeableWrapper<T> implements Exporter<T> {
-        private final ExecutorService executor = Executors.newSingleThreadExecutor((ThreadFactory) new NamedThreadFactory("Exporter-Unexport", true));
-        private final Invoker<T> originInvoker;
-        private Exporter<T> exporter;
-        private URL subscribeUrl;
-        private URL registerUrl;
-
-        public RegistryProtocol$ExporterChangeableWrapper(Exporter<T> exporter, Invoker<T> originInvoker) {
-            this.exporter = exporter;
-            this.originInvoker = originInvoker;
-        }
-
-        public void unexport() {
-            String key = RegistryProtocol.access$400((RegistryProtocol) RegistryProtocol.this, this.originInvoker);
-            RegistryProtocol.access$500((RegistryProtocol) RegistryProtocol.this).remove(key);
-            Registry registry = RegistryProtocol.this.getRegistry(this.originInvoker);
-            try {
-                registry.unregister(this.registerUrl);
-            } catch (Throwable t) {
-                RegistryProtocol.access$200().warn(t.getMessage(), t);
-            }
-            try {
-                NotifyListener listener = (NotifyListener) RegistryProtocol.access$900((RegistryProtocol) RegistryProtocol.this).remove((Object) this.subscribeUrl);
-                registry.unsubscribe(this.subscribeUrl, listener);
-                ((GovernanceRuleRepository) ExtensionLoader.getExtensionLoader(GovernanceRuleRepository.class).getDefaultExtension()).removeListener(this.subscribeUrl.getServiceKey() + ".configurators", (ConfigurationListener) RegistryProtocol.access$800((RegistryProtocol) RegistryProtocol.this).get(this.subscribeUrl.getServiceKey()));
-            } catch (Throwable t) {
-                RegistryProtocol.access$200().warn(t.getMessage(), t);
-            }
-            this.executor.submit(() -> {
-                try {
-                    int timeout = ConfigurationUtils.getServerShutdownTimeout();
-                    if (timeout > 0) {
-                        RegistryProtocol.access$200().info("Waiting " + timeout + "ms for registry to notify all consumers before unexport. Usually, this is called when you use dubbo API");
-                        Thread.sleep(timeout);
-                    }
-                    this.exporter.unexport();
-                } catch (Throwable t) {
-                    RegistryProtocol.access$200().warn(t.getMessage(), t);
-                }
-            });
-        }
-
-        public Invoker<T> getInvoker() {
-            return this.exporter.getInvoker();
-        }
-
-        public void setRegisterUrl(URL registerUrl) {
-            this.registerUrl = registerUrl;
-        }
-
-        public void setSubscribeUrl(URL subscribeUrl) {
-            this.subscribeUrl = subscribeUrl;
-        }
-
-        public Invoker<T> getOriginInvoker() {
-            return this.originInvoker;
-        }
-
-        public URL getRegisterUrl() {
-            return this.registerUrl;
-        }
-
-        public void setExporter(Exporter<T> exporter) {
-            this.exporter = exporter;
-        }
-    }*/
 }

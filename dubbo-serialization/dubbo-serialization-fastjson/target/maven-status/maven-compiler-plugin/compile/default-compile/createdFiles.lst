@@ -1,0 +1,3 @@
+org/apache/dubbo/common/serialize/fastjson/FastJsonObjectInput.class
+org/apache/dubbo/common/serialize/fastjson/FastJsonSerialization.class
+org/apache/dubbo/common/serialize/fastjson/FastJsonObjectOutput.class

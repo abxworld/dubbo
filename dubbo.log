@@ -1,0 +1,2 @@
+[27/01/21 11:31:41:714 CST] main  INFO logger.LoggerFactory: using logger: org.apache.dubbo.common.logger.log4j.Log4jLoggerAdapter
+[27/01/21 13:45:56:369 CST] main  INFO logger.LoggerFactory: using logger: org.apache.dubbo.common.logger.log4j.Log4jLoggerAdapter

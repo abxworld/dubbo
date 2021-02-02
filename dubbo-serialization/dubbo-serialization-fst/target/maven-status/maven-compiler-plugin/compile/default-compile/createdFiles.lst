@@ -1,0 +1,4 @@
+org/apache/dubbo/common/serialize/fst/FstObjectInput.class
+org/apache/dubbo/common/serialize/fst/FstObjectOutput.class
+org/apache/dubbo/common/serialize/fst/FstSerialization.class
+org/apache/dubbo/common/serialize/fst/FstFactory.class

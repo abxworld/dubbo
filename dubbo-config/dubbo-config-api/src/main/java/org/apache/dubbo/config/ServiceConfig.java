@@ -313,7 +313,7 @@ public class ServiceConfig<T> extends ServiceConfigBase<T> {
         );
 
         List<URL> registryURLs = ConfigValidationUtils.loadRegistries(this, true);
-
+        //fixme 在有多个协议的情况下，通过for循环的方式，处理不同的协议，如果这个有多个注册中心也要向这些个注册中心注册服务
         for (ProtocolConfig protocolConfig : protocols) {
             String pathKey = URL.buildKey(getContextPath(protocolConfig)
                     .map(p -> p + "/" + path)

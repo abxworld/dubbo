@@ -1,0 +1,3 @@
+org/apache/dubbo/registry/sofa/SofaRegistryConstants.class
+org/apache/dubbo/registry/sofa/SofaRegistryFactory.class
+org/apache/dubbo/registry/sofa/SofaRegistry.class

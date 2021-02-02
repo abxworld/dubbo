@@ -1,0 +1,3 @@
+org/apache/dubbo/common/serialize/gson/GsonSerialization.class
+org/apache/dubbo/common/serialize/gson/GsonJsonObjectInput.class
+org/apache/dubbo/common/serialize/gson/GsonJsonObjectOutput.class

@@ -1,0 +1,4 @@
+org/apache/dubbo/registry/multiple/MultipleRegistry$MultipleNotifyListenerWrapper.class
+org/apache/dubbo/registry/multiple/MultipleRegistry.class
+org/apache/dubbo/registry/multiple/MultipleRegistryFactory.class
+org/apache/dubbo/registry/multiple/MultipleRegistry$SingleNotifyListener.class

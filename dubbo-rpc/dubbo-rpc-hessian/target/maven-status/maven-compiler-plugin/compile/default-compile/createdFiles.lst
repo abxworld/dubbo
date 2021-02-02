@@ -1,0 +1,7 @@
+org/apache/dubbo/rpc/protocol/hessian/HessianProtocol$1.class
+org/apache/dubbo/rpc/protocol/hessian/HessianProtocol$HessianHandler.class
+org/apache/dubbo/rpc/protocol/hessian/Constants.class
+org/apache/dubbo/rpc/protocol/hessian/HttpClientConnection.class
+org/apache/dubbo/rpc/protocol/hessian/HessianProtocol.class
+org/apache/dubbo/rpc/protocol/hessian/DubboHessianURLConnectionFactory.class
+org/apache/dubbo/rpc/protocol/hessian/HttpClientConnectionFactory.class

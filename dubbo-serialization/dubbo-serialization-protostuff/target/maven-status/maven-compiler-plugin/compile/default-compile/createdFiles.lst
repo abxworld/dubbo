@@ -1,0 +1,8 @@
+org/apache/dubbo/common/serialize/protostuff/ProtostuffSerialization.class
+org/apache/dubbo/common/serialize/protostuff/ProtostuffObjectInput.class
+org/apache/dubbo/common/serialize/protostuff/delegate/TimestampDelegate.class
+org/apache/dubbo/common/serialize/protostuff/Wrapper.class
+org/apache/dubbo/common/serialize/protostuff/delegate/TimeDelegate.class
+org/apache/dubbo/common/serialize/protostuff/utils/WrapperUtils.class
+org/apache/dubbo/common/serialize/protostuff/delegate/SqlDateDelegate.class
+org/apache/dubbo/common/serialize/protostuff/ProtostuffObjectOutput.class

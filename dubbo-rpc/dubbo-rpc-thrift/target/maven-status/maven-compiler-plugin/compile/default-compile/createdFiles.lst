@@ -1,0 +1,16 @@
+org/apache/dubbo/rpc/protocol/thrift/ThriftProtocol$ThriftProtocolServer.class
+org/apache/dubbo/rpc/protocol/thrift/io/InputStreamWrapper.class
+org/apache/dubbo/rpc/protocol/thrift/ThriftNativeCodec.class
+org/apache/dubbo/rpc/protocol/thrift/ThriftType.class
+org/apache/dubbo/rpc/protocol/thrift/ThriftCodec$RequestData.class
+org/apache/dubbo/rpc/protocol/thrift/ThriftProtocol$1.class
+org/apache/dubbo/rpc/protocol/thrift/ThriftInvoker.class
+org/apache/dubbo/rpc/protocol/thrift/io/RandomAccessByteArrayOutputStream.class
+org/apache/dubbo/rpc/protocol/thrift/ext/MultiServiceProcessor.class
+org/apache/dubbo/rpc/protocol/thrift/DubboClassNameGenerator.class
+org/apache/dubbo/rpc/protocol/thrift/ThriftCodec.class
+org/apache/dubbo/rpc/protocol/thrift/ClassNameGenerator.class
+org/apache/dubbo/rpc/protocol/thrift/ThriftUtils.class
+org/apache/dubbo/rpc/protocol/thrift/ThriftClassNameGenerator.class
+org/apache/dubbo/rpc/protocol/thrift/ThriftProtocol.class
+org/apache/dubbo/rpc/protocol/thrift/ThriftConstants.class

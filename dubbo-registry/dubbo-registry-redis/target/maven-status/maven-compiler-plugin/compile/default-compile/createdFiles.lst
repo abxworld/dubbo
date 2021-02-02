@@ -1,0 +1,4 @@
+org/apache/dubbo/registry/redis/RedisRegistry.class
+org/apache/dubbo/registry/redis/RedisRegistry$Notifier.class
+org/apache/dubbo/registry/redis/RedisRegistryFactory.class
+org/apache/dubbo/registry/redis/RedisRegistry$NotifySub.class
